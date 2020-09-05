@@ -624,7 +624,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="izv-an-mOb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2023" y="1730"/>
+            <point key="canvasLocation" x="-1788" y="2099"/>
         </scene>
         <!--Menu-->
         <scene sceneID="tne-QT-ifu">
@@ -1310,6 +1310,22 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="keJ-v9-Gax" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-4570" y="356"/>
+        </scene>
+        <!--uruha rushia  -->
+        <scene sceneID="tun-lE-8hk">
+            <objects>
+                <viewController title="uruha rushia  " id="T79-FF-QVZ" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="AQu-08-oRH">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <viewLayoutGuide key="safeArea" id="dNl-8g-LuK"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="qSK-1K-zXN"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7eL-hR-500" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-286" y="1408"/>
         </scene>
     </scenes>
     <resources>
